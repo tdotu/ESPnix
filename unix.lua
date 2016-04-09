@@ -1,5 +1,5 @@
 --Copyright 2016 Simon Diepold <simon.diepold@infinitycoding.de> 
---License: MIT
+--License: BSD
 
 -- prints all available unix like commands
 function help()
